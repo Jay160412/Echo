@@ -1,0 +1,25 @@
+{
+    "1299854575217410159": {
+        "next_id": 4,
+        "entries": [
+            {
+                "id": 1,
+                "trigger": "Hi Echo",
+                "response": "Moin {username}",
+                "channels": []
+            },
+            {
+                "id": 2,
+                "trigger": "N*gga",
+                "response": "Na, na,\ud83e\udd2b na sowas sagen wir hier nicht \ud83d\udd2a",
+                "channels": []
+            },
+            {
+                "id": 3,
+                "trigger": "Test",
+                "response": "Test gelungen?",
+                "channels": []
+            }
+        ]
+    }
+}

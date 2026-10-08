@@ -1,0 +1,22 @@
+{
+  "welcome": {
+    "1299854575217410159": {
+      "channel_id": 1300127330337030175,
+      "title": "\ud83c\udf1f Willkommen, {username} !",
+      "description": "\ud83c\udf8a **ALAAAARM!**\n{member} hat den Server betreten!  \n\n\u2022 Mitgliedsnummer: **{count}** (Bonus-Punkte wenn\u2019s ne Primzahl ist!)  \n\u2022 Verwirrungslevel: **100%** (Keine Sorge, wir erkl\u00e4ren alles!)  \n\n\ud83d\udcdc **Erste-Hilfe-Tipps:**  \n> \"Nutze <#1299859172719988888> wie ein Notfallknopf\"  \n> \"Vermeide <#1355461031375142993> \u2013 da wohnt der Server-Hamster \ud83d\udc39\"  \n> \"Willkommens-Kaffee gibt\u2019s in <#1300037249555103806> \u2615\"",
+      "show_avatar": true,
+      "footer": "*\"Willkommen im Chaos \u2013 du wirst es lieben!\"* \ud83d\ude08",
+      "color": 2336090
+    }
+  },
+  "goodbye": {
+    "1299854575217410159": {
+      "channel_id": 1300127330337030175,
+      "title": "Tsch\u00fcss {username} \ud83d\ude25",
+      "description": "\ud83d\udea8 **NOTFALL!** {member} hat uns verlassen!  \n\n\u2022 Letzte Worte: *\"Ich hol nur Chips...\"* \ud83c\udf5f  \n\u2022 Vermisst seit: **gerade**  \n\n\ud83d\ude91 **Suchaktion l\u00e4uft:**  \n> Checkt alle Fast-Food-L\u00e4den  \n> Spammt ihre DMs mit Memes  \n> Betet den Server-Bot an f\u00fcr ihre R\u00fcckkehr \ud83e\udd16",
+      "show_avatar": true,
+      "footer": "Warum bist du nur gegangen?!",
+      "color": 15875907
+    }
+  }
+}

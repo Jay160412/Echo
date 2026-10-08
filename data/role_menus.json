@@ -1,0 +1,18 @@
+{
+  "1352778024210137241-1557614478672138240": {
+    "channel_id": 1352778024210137241,
+    "message_id": 1557614480379346974,
+    "role_ids": [
+      1352777469169504307,
+      1352777578427187292,
+      1355583830471475380
+    ],
+    "embed_data": {
+      "title": "\ud83d\udd14 \ud83d\udd14 **Community-Pings aktivieren**  \n\ud83d\udce2 **Benachrichtigungen w\u00e4hlen**  \n\ud83d\uddde\ufe0f **News-Kategorien**  \n\ud83c\udfd8\ufe0f **Deine Communities**  \n\ud83c\udf1f **Verpass keine Updates!**",
+      "description": "\u00bb W\u00e4hle hier, f\u00fcr welche Communities du **@Pings** erhalten m\u00f6chtest!  \n\u00bb Aktiviere Benachrichtigungen nur f\u00fcr deine Lieblings-Themen.  \n\u00bb *Deine Auswahl:* `Echo Community, Slimey Community, Planet Community`",
+      "color": "3498db",
+      "footer": "Unten w\u00e4hlst du deine Rolle! \ud83d\udc47",
+      "thumbnail_url": null
+    }
+  }
+}
