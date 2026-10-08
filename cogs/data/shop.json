@@ -1,0 +1,20 @@
+{
+    "1": {
+        "name": "\ud83c\udf1f VIP-Badge",
+        "price": 500,
+        "type": "role",
+        "description": "Exklusives Abzeichen neben deinem Namen"
+    },
+    "2": {
+        "name": "\ud83c\udfa8 Custom Color",
+        "price": 300,
+        "type": "role",
+        "description": "Pers\u00f6nliche Farbrolle"
+    },
+    "3": {
+        "name": "\ud83d\udc51 Legendary Title",
+        "price": 1000,
+        "type": "role",
+        "description": "Spezieller Titel unter deinem Namen"
+    }
+}

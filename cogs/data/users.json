@@ -1,0 +1,24 @@
+{
+    "1254398312312868945": {
+        "xp": 1306,
+        "level": 4,
+        "coins": 400,
+        "last_daily": "2026-10-07",
+        "quests": {
+            "messages": 13,
+            "reactions": 0,
+            "voice": 0
+        }
+    },
+    "1022484749161345146": {
+        "xp": 810,
+        "level": 3,
+        "coins": 100,
+        "last_daily": "2026-03-13",
+        "quests": {
+            "messages": 79,
+            "reactions": 0,
+            "voice": 0
+        }
+    }
+}
